@@ -3,19 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svendev2024" alt="svendev2024" /></a> </p>
 
-- 🔭 I’m currently working on [AI Photo Editor](https://instant-portrait.com)
-
-- 🌱 I’m currently learning **NIP-50 Relays**
-
-- 👯 I’m looking to collaborate on **AI Hospital System**
-
-- 🤝 I’m looking for help with [Bynaus](https://www.bynaus.ai)
-
-- 💬 Ask me about **web, AI/ML and Unity**
-
-- 📫 How to reach me **sunshine950101@gmail.com**
-
-- ⚡ Fun fact **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+Language: Solidity | Rust | Motoko
+Networks: Ethereum | ICP | BSC | Cardano | Solana
+DAPP Library: Web3 | Ethers | Polkadot.js | Bitcoin Core | Moralis
+Backend: Golang | Python | Node.JS | C#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
