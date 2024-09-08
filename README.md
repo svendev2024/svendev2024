@@ -3,10 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svendev2024" alt="svendev2024" /></a> </p>
 
-Language: Solidity | Rust | Motoko
-Networks: Ethereum | ICP | BSC | Cardano | Solana
-DAPP Library: Web3 | Ethers | Polkadot.js | Bitcoin Core | Moralis
-Backend: Golang | Python | Node.JS | C#
+Language: Solidity | Rust | Motoko<br>
+Networks: Ethereum | ICP | BSC | Cardano | Solana<br>
+DAPP Library: Web3 | Ethers | Polkadot.js | Bitcoin Core | Moralis<br>
+Backend: Golang | Python | Node.JS | C#<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
