@@ -19,7 +19,7 @@
  <a href="https://github.com/svendev2024?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=svendev2024&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@svendev2024's github-readme-stats"/></a>
  <a href="https://github.com/svendev2024?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=svendev2024&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@svendev2024's github-readme-streak-stats"/></a>
 </div>
-
+ 
 <br>
 <div >
     <div style="display: inline-block; height: 100%;">
